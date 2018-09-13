@@ -1,0 +1,28 @@
+_repo: The-Way-of-the-Air-A-Description-of-Modern-Aviation_51581
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Middleton, Edgar Charles
+    alias: Middleton, Edgar C.
+    birthdate: 1894
+    deathdate: 1939
+    gutenberg_agent_id: '46477'
+    url: http://www.gutenberg.org/2009/agents/46477
+description: ''
+gutenberg_issued: '2016-03-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '51581'
+  lccn: '17022331'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'UG'
+- !lcsh 'Aeronautics, Military'
+- !lcsh 'World War, 1914-1918 -- Aerial operations'
+- !lcc 'D501'
+- GITenberg
+title: 'The Way of the Air: A Description of Modern Aviation'
+url: http://www.gutenberg.org/ebooks/51581
